@@ -1,1 +1,2 @@
-./textbooks/*.pdf
+# untrack folders
+./textbook
